@@ -33,18 +33,14 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 		retrun Sivas_Turkey()
 	
 	def Ambitions():
-  PrepareAppForAppStore()
-  GraduateFromUniversity()
+  		PrepareAppForAppStore()
+  		GraduateFromUniversity()
 		LearnEnglish()
-  BeSpeakerAtConference()
-		# Assume 10 more awesome ambitions here  ;)
+ 		 BeSpeakerAtConference()
+		#Assume 10 more awesome ambitions here  ;)
 	
  ```
- 
 
-## Other Stuff
-  - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: @MarikIshtar007 )
-
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+![Hasan Ali's github stats](https://github-readme-stats.vercel.app/api?username=hasanalisiseci&show_icons=true&hide=[%22issues%22])
  
- 
+- :octocat: [template holder](https://github.com/MarikIshtar007)
