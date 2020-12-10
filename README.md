@@ -28,11 +28,11 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  	user = 'Hasan Ali Şişeci'
 	current_edu = "Cumhuriyet University in Turkey"
 	hobbies = [
-				'design social media content',
-				'watching series',
-				'games'
-				'being up all Night chasing that ONE BUG...'
-			]
+		   'design social media content',
+		   'watching series',
+	           'games'
+		   'being up all Night chasing that ONE BUG...'
+		   ]
 	
 	def getCity():
 		retrun Sivas_Turkey()
@@ -41,7 +41,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
   		PrepareAppForAppStore()
   		GraduateFromUniversity()
 		LearnEnglish()
- 		 BeSpeakerAtConference()
+ 		BeSpeakerAtConference()
 		#Assume 10 more awesome ambitions here  ;)
 	
  ```
