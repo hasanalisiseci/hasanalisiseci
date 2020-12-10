@@ -25,7 +25,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  ## Who am I?
  ```python
  class WhoAmI:
- user = 'Hasan Ali Şişeci'
+	user = 'Hasan Ali Şişeci'
 	current_edu = "Cumhuriyet University in Turkey"
 	hobbies = [
 		   'design social media content',
