@@ -1,11 +1,17 @@
 
 ### Hey, [Hasan Ali here!](https://hasanalidev.medium.comA)<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="25px">
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' alt = 'Awesome Matrix Code' align='right'/>
 
+<p align="justify">
+  <a href='https://findmentor.network/peer/hasan-ali-siseci'>
+    <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">
+  <a/>
+</p> <img src="https://komarev.com/ghpvc/?username=hasanalisiseci" alt="hasanalisiseci" /> </p>
+	  
 [![Linkedin Badge](https://img.shields.io/badge/-hasanalisiseci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanalisiseci)](https://www.linkedin.com/in/hasanalisiseci)
 [![Medium Badge](https://img.shields.io/badge/-hasanalisiseci-black?style=flat-square&logo=Medium&logoColor=white&link=https://hasanalidev.medium.com)](https://hasanalidev.medium.com)
-[![Gmail Badge](https://img.shields.io/badge/-hasanalidev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanalidev@gmail.com)](mailto:hasanalidev@gmail.com)<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalisiseci" alt="hasanalisiseci" /> </p>
+[![Gmail Badge](https://img.shields.io/badge/-hasanalidev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanalidev@gmail.com)](mailto:hasanalidev@gmail.com)<p align="left"> 
 
 ## :detective: who is Hasan Ali
 ceng student, mobile developer trying to be junior 👨‍💻📲
