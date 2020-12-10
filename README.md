@@ -7,7 +7,10 @@
   <a href='https://findmentor.network/peer/hasan-ali-siseci'>
     <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">
   <a/>
-</p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalisiseci" alt="hasanalisiseci" /> </p>
+  <a href='https://findmentor.network/peer/hasan-ali-siseci'>
+	<img src="https://komarev.com/ghpvc/?username=hasanalisiseci" alt="hasanalisiseci" /> 
+  <a/>
+</p>
 	  
 [![Linkedin Badge](https://img.shields.io/badge/-hasanalisiseci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanalisiseci)](https://www.linkedin.com/in/hasanalisiseci)
 [![Medium Badge](https://img.shields.io/badge/-hasanalisiseci-black?style=flat-square&logo=Medium&logoColor=white&link=https://hasanalidev.medium.com)](https://hasanalidev.medium.com)
