@@ -30,17 +30,17 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 	hobbies = [
 		   'design social media content',
 		   'watching series',
-	           'games'
+		'games'
 		   'being up all Night chasing that ONE BUG...'
 		   ]
 	
 	def getCity():
-		retrun Sivas_Turkey()
+		return Sivas_Turkey()
 	
 	def Ambitions():
   		PrepareAppForAppStore()
   		GraduateFromUniversity()
-		LearnEnglish()
+			LearnEnglish()
  		BeSpeakerAtConference()
 		#Assume 10 more awesome ambitions here  ;)
 	
