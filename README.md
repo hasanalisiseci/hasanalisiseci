@@ -11,9 +11,9 @@
 	<img src="https://komarev.com/ghpvc/?username=hasanalisiseci" alt="hasanalisiseci" /> 
   <a/>
 </p>
-	  
-[![Linkedin Badge](https://img.shields.io/badge/-hasanalisiseci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanalisiseci)](https://www.linkedin.com/in/hasanalisiseci)
+
 [![Medium Badge](https://img.shields.io/badge/-hasanalisiseci-black?style=flat-square&logo=Medium&logoColor=white&link=https://hasanalidev.medium.com)](https://hasanalidev.medium.com)
+[![Linkedin Badge](https://img.shields.io/badge/-hasanalisiseci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanalisiseci)](https://www.linkedin.com/in/hasanalisiseci)
 [![Gmail Badge](https://img.shields.io/badge/-hasanalidev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanalidev@gmail.com)](mailto:hasanalidev@gmail.com)
 
 ## :detective: who is Hasan Ali
