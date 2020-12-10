@@ -48,4 +48,4 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 
 ![Hasan Ali's github stats](https://github-readme-stats.vercel.app/api?username=hasanalisiseci&show_icons=true&hide=[%22issues%22])
  
-- :octocat: thanks to @MarikIshtar007 for this template [MarikIshtar007](https://github.com/MarikIshtar007)
+- :octocat: thanks to [@MarikIshtar007](https://github.com/MarikIshtar007) for this template 
