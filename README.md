@@ -7,7 +7,9 @@
 [![Medium Badge](https://img.shields.io/badge/-hasanalisiseci-black?style=flat-square&logo=Medium&logoColor=white&link=https://hasanalidev.medium.com)](https://hasanalidev.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/-hasanalidev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanalidev@gmail.com)](mailto:hasanalidev@gmail.com)<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalisiseci" alt="hasanalisiseci" /> </p>
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+## :rocket: Goals
+Why am I here? I can sum it up like this. I want to be happy. Developing softwares makes me happy. Better developing softwares, greater happiness.
+
 ## :computer: Technologies I Love
 * iOS Mobile Development
 * Flutter
