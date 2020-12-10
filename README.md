@@ -38,11 +38,11 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 		return Sivas_Turkey()
 	
 	def Ambitions():
-  		PrepareAppForAppStore()
-  		GraduateFromUniversity()
-			LearnEnglish()
- 		BeSpeakerAtConference()
-		#Assume 10 more awesome ambitions here  ;)
+  	PrepareAppForAppStore()
+  	GraduateFromUniversity()
+		LearnEnglish()
+ 	BeSpeakerAtConference()
+	#Assume 10 more awesome ambitions here  ;)
 	
  ```
 
