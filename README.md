@@ -30,7 +30,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 	hobbies = [
 		   'design social media content',
 		   'watching series',
-		'games'
+		   'games'
 		   'being up all Night chasing that ONE BUG...'
 		   ]
 	
