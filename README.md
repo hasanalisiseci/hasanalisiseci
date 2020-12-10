@@ -4,7 +4,7 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-hasanalisiseci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanalisiseci)](https://www.linkedin.com/in/hasanalisiseci)
-[![Medium Badge](https://img.shields.io/badge/-hasanalisiseci-white?style=flat-square&logo=Medium&logoColor=white&link=https://hasanalidev.medium.com)](https://hasanalidev.medium.com)
+[![Medium Badge](https://img.shields.io/badge/-hasanalisiseci-black?style=flat-square&logo=Medium&logoColor=white&link=https://hasanalidev.medium.com)](https://hasanalidev.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/-hasanalidev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanalidev@gmail.com)](mailto:hasanalidev@gmail.com)<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalisiseci" alt="hasanalisiseci" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
