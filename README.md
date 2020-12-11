@@ -34,26 +34,37 @@ ceng student, mobile developer trying to be junior 👨‍💻📲
  
  
  ## Who am I?
- ```python
- class WhoAmI:
-	user = 'Hasan Ali Şişeci'
-	current_edu = "Cumhuriyet University in Turkey"
-	hobbies = [
-		   'design social media content',
-		   'watching series',
-		   'games'
-		   'being up all Night chasing that ONE BUG...'
-		   ]
-	
-	def getCity():
-		return Sivas_Turkey()
-	
-	def Ambitions():
-  	PrepareAppForAppStore()
-  	GraduateFromUniversity()
-		LearnEnglish()
- 	BeSpeakerAtConference()
-	#Assume 10 more awesome ambitions here  ;)
+ ```swift
+ class whoAmI {
+   let user = 'Hasan Ali Şişeci'
+   let currentEdu = "Cumhuriyet University in Turkey"
+   let departmentOfEdu = "ceng"
+   let interest = "Mobile Application Development"
+
+   var hobbies = [
+   	   'design social media content',
+   	   'watching series',
+   	   'games'
+   	   'being up all Night chasing that ONE BUG...'
+   	   ]
+    
+    func getCity() -> String {
+        return "Sivas_Turkey"
+    }
+
+    func ambitions() {
+        PrepareAppForAppStore()
+ 	    GraduateFromUniversity()
+   	    LearnEnglish()
+	    BeSpeakerAtConference()
+    }
+}
+
+extension whoAmI {
+    func showSummaryofBio() -> String {
+        return "Hello, I am \(user), I'm studying \(departmentOfEdu) at \(currentEdu). I am currently interested in \(interest)"
+    }
+}
 	
  ```
 
