@@ -1,5 +1,5 @@
 
-### Hey, [Hasan Ali here!](https://hasanalidev.medium.comA)
+### Hey, [Hasan Ali here!](https://hasanalidev.medium.com)
 
 <img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' widtg= 50 alt = 'Awesome Matrix Code' align='right'/>
 
