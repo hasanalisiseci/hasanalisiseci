@@ -37,6 +37,7 @@ ceng student, mobile developer trying to be junior 👨‍💻📲
  ```swift
  class whoAmI {
    let user = 'Hasan Ali Şişeci'
+   let birthYear = 2000
    let currentEdu = "Cumhuriyet University in Turkey"
    let departmentOfEdu = "ceng"
    let interest = "Mobile Application Development"
@@ -62,7 +63,9 @@ ceng student, mobile developer trying to be junior 👨‍💻📲
 
 extension whoAmI {
     func showSummaryofBio() -> String {
-        return "Hello, I am \(user), I'm studying \(departmentOfEdu) at \(currentEdu). I am currently interested in \(interest)"
+    	let currentYear = Calendar.current.component(.year, from: Date())
+    	let age = currentYear - birthYear
+        return "Hello, I am \(user), \(age) years old. I'm studying \(departmentOfEdu) at \(currentEdu). I am currently interested in \(interest)"
     }
 }
 	
