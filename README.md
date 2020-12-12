@@ -35,38 +35,38 @@ ceng student, mobile developer trying to be junior 👨‍💻📲
  
  ## Who am I?
  ```swift
- class whoAmI {
-   let user = 'Hasan Ali Şişeci'
-   let birthYear = 2000
-   let currentEdu = "Cumhuriyet University in Turkey"
-   let departmentOfEdu = "ceng"
-   let interest = "Mobile Application Development"
+class whoAmI {
+  let user = 'Hasan Ali Şişeci'
+  let birthYear = 2000
+  let currentEdu = "Cumhuriyet University in Turkey"
+  let departmentOfEdu = "ceng"
+  let interest = "Mobile Application Development"
 
-   var hobbies = [
-   	   'design social media content',
-   	   'watching series',
-   	   'games'
-   	   'being up all Night chasing that ONE BUG...'
-   	   ]
-    
-    func getCity() -> String {
-        return "Sivas_Turkey"
-    }
+  var hobbies = [
+  	   "design social media content",
+  	   "watching series",
+  	   "games",
+  	   "being up all Night chasing that ONE BUG..."
+  	   ]
+   
+   func getCity() -> String {
+       return "Sivas_Turkey"
+   }
 
-    func ambitions() {
-        PrepareAppForAppStore()
- 	    GraduateFromUniversity()
-   	    LearnEnglish()
-	    BeSpeakerAtConference()
-    }
+   func ambitions() {
+       PrepareAppForAppStore()
+	    GraduateFromUniversity()
+  	    LearnEnglish()
+       BeSpeakerAtConference()
+   }
 }
 
 extension whoAmI {
-    func showSummaryofBio() -> String {
-    	let currentYear = Calendar.current.component(.year, from: Date())
-    	let age = currentYear - birthYear
-        return "Hello, I am \(user), \(age) years old. I'm studying \(departmentOfEdu) at \(currentEdu). I am currently interested in \(interest)"
-    }
+   func showSummaryofBio() -> String {
+   	let currentYear = Calendar.current.component(.year, from: Date())
+   	let age = currentYear - birthYear
+       return "Hello, I am \(user), \(age) years old. I'm studying \(departmentOfEdu) at \(currentEdu). I am currently interested in \(interest)"
+   }
 }
 	
  ```
