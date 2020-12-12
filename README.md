@@ -1,7 +1,7 @@
 
 ### Hey, [Hasan Ali here!](https://hasanalidev.medium.com)
 
-<img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' width= 100 alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' width= 300 alt = 'Awesome Matrix Code' align='right'/>
 
 <p align="justify">
   <a href='https://findmentor.network/peer/hasan-ali-siseci'>
