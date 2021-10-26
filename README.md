@@ -5,9 +5,6 @@
 
 <p align="justify">
   <a href='https://findmentor.network/peer/hasan-ali-siseci'>
-    <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">
-  <a/>
-  <a href='https://findmentor.network/peer/hasan-ali-siseci'>
 	<img src="https://komarev.com/ghpvc/?username=hasanalisiseci" alt="hasanalisiseci" /> 
   <a/>
 </p>
