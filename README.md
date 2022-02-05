@@ -46,13 +46,13 @@ class whoAmI {
   	   ]
    
    func getCity() -> String {
-       return "Sivas_Turkey"
+       return "Sivas/Turkey"
    }
 
    func ambitions() {
        PrepareAppForAppStore()
-	    GraduateFromUniversity()
-  	    LearnEnglish()
+       GraduateFromUniversity()
+       LearnEnglish()
        BeSpeakerAtConference()
    }
 }
