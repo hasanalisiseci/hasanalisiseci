@@ -14,7 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hasanali@siseci.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanali@siseci.com)](mailto:hasanali@siseci.com)
 
 ## :detective: who is Hasan Ali
-ceng student, mobile developer trying to be junior 👨‍💻📲
+ceng, ios developer 👨‍💻📲
 
 ## :computer: Technologies I Love
 * iOS Mobile Development
